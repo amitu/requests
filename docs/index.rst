@@ -33,6 +33,7 @@ Release v\ |version|. (:ref:`Installation <install>`)
     >>> r.headers['content-type']
     'application/json; charset=utf8'
     >>> r.encoding
+    
     'utf-8'
     >>> r.text
     '{"type":"User"...'
